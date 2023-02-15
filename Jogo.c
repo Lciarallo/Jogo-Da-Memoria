@@ -202,7 +202,7 @@ int compare(int a, int b, int i, int j, int tentativas, char matriz1[6][6], char
     temp1 = matriz2[a][b];
     temp2 = matriz2[i][j];
 
-    matriz2[a]1
+    matriz2[a][b]
      = matriz1[i][j];
     matrizjogo(6,matriz2,matriz1);
 
